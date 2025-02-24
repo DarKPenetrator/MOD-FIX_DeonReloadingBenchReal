@@ -1,5 +1,27 @@
 module Base
 {
+	item 9mmBulletsMold
+{
+    DisplayName = 9mm Bullet Mold,
+    DisplayCategory = Ammo,
+    Type = Normal,
+    Weight = 0.5,
+    Icon = BulletMold,
+    MetalValue = 15,
+    WorldStaticModel = ShotGunShellsMold_Ground,
+}
+
+item 223BulletsMold
+{
+    DisplayName = .223 Bullet Mold,
+    DisplayCategory = Ammo,
+    Type = Normal,
+    Weight = 0.5,
+    Icon = BulletMold,
+    MetalValue = 15,
+    WorldStaticModel = ShotGunShellsMold_Ground,
+}
+
 	
 	item ShotgunShellsMold
 	{
